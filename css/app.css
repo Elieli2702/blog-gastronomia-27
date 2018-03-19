@@ -12,10 +12,16 @@ body{
 }
 
 .fecha{
-  margin-left: 5rem;
+  margin-left: 1rem;
 }
 .info{
   margin: 1.5rem;
   margin-top: .5rem;
   padding: .5rem;
+}
+.icono{
+  size: 60;
+}
+.chat{
+  font-size: .9rem;
 }
