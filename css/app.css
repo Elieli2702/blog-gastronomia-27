@@ -1,0 +1,21 @@
+body{
+  background-image: url("../img/fondo.jpg");
+}
+
+.favotitos{
+  padding: 5px;
+}
+
+.receta{
+  margin: .5rem;
+  padding: 1.5rem;
+}
+
+.fecha{
+  margin-left: 5rem;
+}
+.info{
+  margin: 1.5rem;
+  margin-top: .5rem;
+  padding: .5rem;
+}
